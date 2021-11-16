@@ -27,7 +27,7 @@ AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('FORCES_SUB')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
-TUTORIAL = "https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg"
+TUTORIAL = "https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA"
 # MongoDB information
 DATABASE_URI = environ['DATABASE_2']
 DATABASE_NAME = environ['BOT_NAME']
@@ -37,9 +37,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 default_start_msg = """
 **Hi, I'm Auto Filter V3**
 
-⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയുക ⭕️
+⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യുക ⚠️ You need movies files first you join our group ⭕️
 
-💘  𝙹𝙾𝙸𝙽  :  @malayalammoviesmms  💘.
+💘  𝙹𝙾𝙸𝙽  :  @malayalam_rocker_s  💘.
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
 START_IMG = environ.get("START_IMG", "") 
