@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3",
+    "website": "https://github.com/Amal-ser/AutoFilterBotV3",
+    "repository": "https://github.com/Amal-ser/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
