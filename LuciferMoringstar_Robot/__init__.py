@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [LXR YOUTUBER](www.youtube.com/C/LXRYOUTUBER)
+➥ Creator : [Amalser](https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA)
 
 ➥ Language : Python3
 
