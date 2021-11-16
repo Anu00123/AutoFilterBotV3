@@ -48,6 +48,11 @@
             "value": "-1001453349235",
             "required": false
         },
+        "START_IMG": {
+            "description": "start image",
+            "value": "https://telegra.ph/file/1986d89402b68b4f4aeca.jpg",
+            "required": false
+        },
         "START_MSG": {
             "description": "Welcome message for start command",
             "value": "**Hi, I'm Am Amalser Autofilter Bot**",
