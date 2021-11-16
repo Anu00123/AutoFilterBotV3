@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/AutoFilterBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
@@ -72,8 +72,8 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Original Repo](https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot)
-* [LXR YOUTUBER](https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot)
+* [Original Repo](https://github.com/Amal-ser/Media-Search-bot)
+* [LXR YOUTUBER](https://github.com/Amal-ser/Media-Search-bot)
 * [Re Edited By](https://t.me/LXRBOTSGROUP)
 * [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 * [LXRBOTS](https://t.me/LXRBOTSGROUP)
