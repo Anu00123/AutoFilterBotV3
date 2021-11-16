@@ -27,7 +27,7 @@ START_MSG = """
 
 ⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയ്യുക ⚠️ You need movies files first you join our group ⭕️
 
-💘  𝙹𝙾𝙸𝙽  :  @malayalam_rocker_s  💘.
+💘  𝙹𝙾𝙸𝙽  :  @malayalam_rockers_off  💘.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
