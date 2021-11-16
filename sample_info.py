@@ -23,11 +23,11 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Am Amalser Autofilter Bot**
 
-⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയുക ⭕️
+⭕️ നിങ്ങൾക്ക് സിനിമ വേണമെങ്കിൽ ആദ്യം ഗ്രൂപ്പിൽ ജോയിൻ ചെയുക ⚠️ First you join our group ⭕️
 
-💘  𝙹𝙾𝙸𝙽  :  @malayalammoviesmms  💘.
+💘  𝙹𝙾𝙸𝙽  :  @malayalam_rocker_s  💘.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
