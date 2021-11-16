@@ -24,6 +24,7 @@ Bot Owner Only
 /total How Many Files Added In Database
 /logger  Get Logs
 /delete Delete File From Database
+*  join @malayalam_rockers_off
 
 """
 
@@ -36,5 +37,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me]()
+➥ Tutorial : [Click Me](https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA)
 """
