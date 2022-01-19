@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Amal-ser/AutoFilterBotV3",
-    "repository": "https://github.com/Amal-ser/AutoFilterBotV3",
+    "repository": "https://github.com/Anu00123/AutoFilterBotV3?organization=Anu00123&organization=Anu00123",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
